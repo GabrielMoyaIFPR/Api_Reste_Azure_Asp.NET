@@ -19,3 +19,9 @@ D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVi
 D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net6.0\RestWithASPNET.pdb
 D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net6.0\RestWithASPNET.genruntimeconfig.cache
 D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net6.0\ref\RestWithASPNET.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\MySqlConnector.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Área de Trabalho\Cursos\Api_Reste_Azure_Asp.NET\RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net6.0\RestWithASPNET.csproj.CopyComplete
